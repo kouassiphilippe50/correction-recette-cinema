@@ -24,3 +24,5 @@ for(age=11;age<=20;age++){
         recettetotale +=tarif2;
     }
 } 
+// recette totale 
+console.log(` la recette est : ${recettetotale}`)
