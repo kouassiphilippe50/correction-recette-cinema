@@ -26,3 +26,8 @@ for(age=11;age<=20;age++){
 } 
 // recette totale 
 console.log(` la recette est : ${recettetotale}`)
+
+// le nombre de tikets 
+console.log(`le nombre de billet 1500 : ${nbremoins16}`)
+console.log(`le nombre de billet 2000 : ${nbreadulte}`)
+console.log(`le nombre de billet 2500 : ${nbreplus16}`)
