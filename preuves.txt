@@ -1,1 +1,32 @@
+partie 1
 
+age est : 11 , prix est : 1500 fcfa
+age est : 12 , prix est : 1500 fcfa
+age est : 13 , prix est : 1500 fcfa
+age est : 14 , prix est : 1500 fcfa
+age est : 15 , prix est : 1500 fcfa
+age est : 16 , prix est : 2500 fcfa
+age est : 17 , prix est : 2500 fcfa
+age est : 18 , prix est : 2500 fcfa
+age est : 19 , prix est : 2500 fcfa
+age est : 20 , prix est : 2500 fcfa
+la recette totale est : 20000 fcfa
+lenombre de billet de 1500 : 5
+lenombre de billet de 2500 : 5
+
+partie 2
+
+age est : 11 , prix est : 1500
+age est : 12 , prix est : 1500
+age est : 13 , prix est : 1500
+age est : 14 , prix est : 1500
+age est : 15 , prix est : 1500
+age est : 16 , prix est : 2500 fcfa
+age est : 17 , prix est : 2500 fcfa
+age est : 18, prix est : 2000fcfa
+age est : 19, prix est : 2000fcfa
+age est : 20, prix est : 2000fcfa
+ la recette est : 18500
+le nombre de billet 1500 : 5
+le nombre de billet 2000 : 2
+le nombre de billet 2500 : 3
