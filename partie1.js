@@ -17,3 +17,6 @@ for( age=11;age<=20;age++){
         recettetotale +=tarif2;
     }
 }
+// la recette totale
+console.log(`la recette totale est : ${recettetotale} fcfa`)
+
