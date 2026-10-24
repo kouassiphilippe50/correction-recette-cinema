@@ -20,3 +20,7 @@ for( age=11;age<=20;age++){
 // la recette totale
 console.log(`la recette totale est : ${recettetotale} fcfa`)
 
+// le nombre de ticket par tarif
+console.log(`lenombre de billet de 1500 : ${nbremoins16}`)
+console.log(`lenombre de billet de 2500 : ${nbreplus16}`)
+
